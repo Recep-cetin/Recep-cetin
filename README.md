@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Recep-cetin
 - 👀 I’m interested in frontend and backand (mobil || web)
-- 🌱 I’m currently learning  Node.js
 - 📫 How to reach me ctnr157@gmail.com || cetinr956@gmail.com
